@@ -1,7 +1,5 @@
-# Restaurant-Tips-Analyst
-Analyze customer tipping trends
 🍽️ Restaurant Tips Analysis
-restaurant.jpg
+![image](https://github.com/user-attachments/assets/d0903934-e534-4107-91e2-bb13c5237b51)
 
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
 
